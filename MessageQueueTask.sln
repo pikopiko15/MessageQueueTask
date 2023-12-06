@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageQueueTaskPub", "MessageQueueTaskPub\MessageQueueTaskPub.csproj", "{CC3D19E0-11BE-45CD-BF48-5603B917F8BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageQueueTaskSub", "MessageQueueTaskSub\MessageQueueTaskSub.csproj", "{9E4E94E5-A420-4948-A97D-82E737E0EB16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC3D19E0-11BE-45CD-BF48-5603B917F8BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC3D19E0-11BE-45CD-BF48-5603B917F8BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC3D19E0-11BE-45CD-BF48-5603B917F8BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC3D19E0-11BE-45CD-BF48-5603B917F8BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E4E94E5-A420-4948-A97D-82E737E0EB16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E4E94E5-A420-4948-A97D-82E737E0EB16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E4E94E5-A420-4948-A97D-82E737E0EB16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E4E94E5-A420-4948-A97D-82E737E0EB16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB25E05D-6563-4E32-ABC0-E9C8AB966BD9}
+	EndGlobalSection
+EndGlobal
